@@ -33,3 +33,12 @@ a {
 li {
     margin-bottom: 5px;
 }
+a:hover {
+    color: #a77bd4;
+    text-decoration: underline;
+}
+
+img:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
