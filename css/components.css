@@ -22,3 +22,8 @@
     border: 2px solid #2a5298;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
+
+.btn-custom-effect {
+    display: inline-block;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
