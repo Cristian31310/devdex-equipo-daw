@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+body {
+  font-family: 'Sans';
+  background: #010618;
+  color: #E7EEFE;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  background-color: #031144;
+  width: 35%;
+  height: 15%;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.cardContent {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 25px;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
