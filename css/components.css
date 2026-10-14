@@ -17,3 +17,8 @@
 .developer-card a {
     color: #7652a3;
 }
+
+.card-border-ivan {
+    border: 2px solid #2a5298;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
